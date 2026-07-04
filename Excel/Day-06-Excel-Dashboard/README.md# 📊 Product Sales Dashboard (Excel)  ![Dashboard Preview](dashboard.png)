@@ -1,0 +1,57 @@
+# 📊 Product Sales Dashboard (Excel)
+
+## 📌 Project Overview
+This project showcases an interactive Product Sales Dashboard built in Microsoft Excel. It demonstrates data analysis and dashboard creation using Pivot Tables, Pivot Charts, KPIs, XLOOKUP, and Slicers.
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- XLOOKUP
+- KPI Cards
+- Slicers
+- Excel Tables
+
+---
+
+## 📈 Dashboard KPIs
+- Total Products
+- Total Stock Quantity
+- Average Price
+- Highest Price
+- Lowest Price
+- Average Score
+
+---
+
+## 📊 Dashboard Features
+- Interactive Category Slicer
+- Product Distribution Pie Chart
+- Stock Quantity by Category
+- Average Price by Category
+- Dynamic KPI Cards
+
+---
+
+## 📁 Files Included
+- `Product_Sales_Dashboard.xlsx`
+- `dashboard.png`
+
+---
+
+## 🎯 Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Pivot Table Analysis
+- Dashboard Design
+- Data Visualization
+- Business Reporting
+
+---
+
+## 👩‍💻 Author
+**Deepti Bhatia**
+
+Data Analyst Portfolio Project – Day 6 of my 90-Day Data Analyst + GenAI Bootcamp.
