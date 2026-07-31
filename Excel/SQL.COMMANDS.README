@@ -1,0 +1,34 @@
+# Day 8 – SQL JOIN Commands
+
+## 📚 Today's Learning
+
+Today I learned SQL JOIN commands, which are used to combine data from two or more tables based on a related column.
+
+### Topics Covered
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN
+* SELF JOIN
+* CROSS JOIN
+
+### Skills Practiced
+
+* Joining tables using Primary Key and Foreign Key
+* Retrieving matching and non-matching records
+* Understanding when to use each type of JOIN
+* Writing SQL queries using different JOIN operations
+* Comparing the output of different JOIN types
+
+### Practice
+
+* Solved multiple SQL JOIN exercises
+* Compared INNER, LEFT, RIGHT, and FULL OUTER JOIN results
+* Improved query-writing and data retrieval skills
+
+### Next Goal
+
+Learn Aggregate Functions, GROUP BY, HAVING, and Subqueries.
+
+#SQL #Database #SQLServer #DataAnalytics #LearningInPublic #GitHub #100DaysOfCode
