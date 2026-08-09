@@ -1,4 +1,4 @@
-# Day 12 – SQL Subqueries
+# Day 9 – SQL Subqueries
 
 ## Topics Covered
 
